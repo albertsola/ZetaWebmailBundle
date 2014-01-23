@@ -114,7 +114,7 @@ built into the Webmail bundle. By default there are two very simple security rol
 
 ### XSS Prevention (HTML-Mails)
 
-This bundle uses [washtml](http://ubixis.com/washtml/) to sanitize HTML mail content before displaying.
+This bundle uses [washtml](http://www.ubixis.com/washtml/) to sanitize HTML mail content before displaying.
 Not the original code but an object-oriented modification written by [Roundcube](http://www.roundcube.net) developers
 is used for this task.
 
